@@ -9,8 +9,8 @@ paginate = 999
 minify = true
 
 
-[taxonomies]
-  tag = "tags"
+#[taxonomies]
+#  tag = "tags"
 
 [privacy]
   [privacy.disqus]
